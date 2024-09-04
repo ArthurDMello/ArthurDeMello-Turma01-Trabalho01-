@@ -1,9 +1,5 @@
 # JEST Unit Tests
 
-## SonarCloud
-
-![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)
-
 ## Getting Started
 
 In order to execute this project you must follow the steps below:
